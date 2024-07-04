@@ -1,7 +1,12 @@
-site_name: Relatório de estágio em {NOME_EMPRESA}
-site_author: {NOME_COMPLETO}
+site_name: Relatório de estágio em TSMX
+site_author: Cecília Miranda
 
 theme:
   name: readthedocs
+
+plugins:
+    - search
+    - mermaid2
+
 
 
